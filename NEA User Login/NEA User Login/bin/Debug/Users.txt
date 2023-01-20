@@ -1,0 +1,8 @@
+william WilliamIsCool 29 203 29
+daniel DanielIsCool 37 287 13
+jake JakeIsCool 79 413 163
+oscar OscarIsCool 43 143 67
+owen OwenIsCool 00 00 00
+jacob JacobIsCool 00 00 00
+lucy LucyIsCool 00 00 00
+cory CoryIsCool 00 00 00
